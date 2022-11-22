@@ -8,6 +8,10 @@ In celebration of PennyLane's fourth birthday, I took a three-week virtual trip 
 
 ### Team name: Latch
 
-### Rank: 30/426 teams
+### Rank: 29/426 teams
 
-<img src="pennylane_stacked.png" alt="drawing" width="500"/>
+<p float="center">
+  <img src="pennylane_stacked.png" width="400" />
+  <img src="final_score.png" width="400" /> 
+</p>
+
